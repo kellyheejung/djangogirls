@@ -1,1 +1,1 @@
-# djangogirls
+# djangogirls awesome coach 
